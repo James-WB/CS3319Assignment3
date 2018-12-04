@@ -1,0 +1,35 @@
+/*
+	Museum Styles
+*/
+
+body {
+	font-family: 'Mali', cursive;
+	font-size: 20px;
+	background-color: #6C8EEC;
+	color: black;
+}
+
+h1 {
+	font-size: 40px;
+	text-align: center;
+	margin: auto;
+}
+
+h2{
+	margin-left: 50px;
+}
+
+hr{
+	border-top: 3px solid black;
+}
+
+select {
+	font-family: 'Charmonman', cursive;
+	background-color: orange;
+}
+
+table, th, td {
+  	vertical-align: top;
+	border: 1px solid black;
+	width: 50%;
+}
